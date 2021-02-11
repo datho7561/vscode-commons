@@ -18,10 +18,11 @@ Common events are reported:
 * when extension is shutdown
     - duration of the session
 
-The implementation of telemetry collection can be found in https://github.com/redhat-developer/vscode-redhat-telemetry 
+The implementation of telemetry collection can be found in https://github.com/redhat-developer/vscode-redhat-telemetry
 
 ### Other extensions
 Red Hat extensions' specific telemetry collection details can be found there:
 
 * [Dependency Analytics](https://github.com/fabric8-analytics/fabric8-analytics-vscode-extension/blob/master/Telemetry.md)
 * [OpenShift Connector](https://github.com/redhat-developer/vscode-openshift-tools/blob/master/USAGE_DATA.md)
+* [XML](https://github.com/redhat-developer/vscode-xml/blob/master/USAGE_DATA.md)
